@@ -1,0 +1,20 @@
+.background {
+    background-color: #eee3f8;
+}
+  
+.title {
+    color: #682a9d;
+}
+
+.text-input-title-text {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.text-input {
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    border: none;
+}

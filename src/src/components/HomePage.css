@@ -1,0 +1,38 @@
+.background {
+    background-color: #eee3f8;
+}
+
+.title {
+    color: #682a9d;
+}
+
+.text-input {
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    border: none;
+}
+
+.button {
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+    background-color: #682a9d;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+
+.smallButton {
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+    border: none;
+    background-color: #682a9d;
+    color: white;
+    font-size: 13px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
